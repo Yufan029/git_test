@@ -1,4 +1,0 @@
-Hello World!
-Test
-
-modify the hello world for amend commit.
